@@ -1,4 +1,4 @@
-# 1. Kickstarter Data and Statistical Analysis
+# Kickstarter Data and Statistical Analysis
 
 
 ![image](https://user-images.githubusercontent.com/62668061/120932359-688e2300-c6c3-11eb-9980-c92df89d101b.png)
